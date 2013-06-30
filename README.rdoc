@@ -1,0 +1,3 @@
+#this is a demonstration app for rails
+
+Rails demo app
